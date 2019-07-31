@@ -91,7 +91,7 @@ if (isset($_POST['submit'])) {
 							  style="width:580px; height:400px;" readonly></textarea>
 					</div>
 					<div id="imageDiv" style="width:420px; display:table-cell;">
-						<b>Sumber Gambar:</b><br><br>
+						<b>Gambar:</b><br><br>
 						<img id="sourceImage" width="400" /><br>
 						<h3 id="description">...</h3>
 					</div>
